@@ -7,7 +7,7 @@ import people from "../img/people.png";
 import bag from "../img/bag.png";
 import message from "../img/message.png";
 import ask from "../img/ask.png";
-import link from "../img/link.png";
+import link from "../img/logout_icon.png";
 
 
 import "./ContactStyle.css";

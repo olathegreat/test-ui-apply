@@ -416,6 +416,16 @@ ul{
     } 
     
 }
+@media screen and (max-width:560px) {
+    .contact-mid .form-details{
+        display: none;
+    }
+    .contact-mid .form{
+        width: 100%;
+    }
+
+    
+}
 @media screen and (max-width:481px) {
     .contact-mid .form-details{
         display: none;
